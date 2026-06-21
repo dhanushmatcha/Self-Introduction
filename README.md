@@ -1,53 +1,93 @@
-# Self Introduction Video
+<h1 align="center">🎥 Self Introduction Video</h1>
 
-## About Me
+<p align="center">
+  <b>Matcha Dhanush</b><br>
+  B.Tech - Computer Science and Engineering
+</p>
 
-Hello!
+---
 
-My name is **Matcha Dhanush**, and I am currently pursuing a **Bachelor of Technology in Computer Science and Engineering** at **Vignan's Foundation for Science, Technology and Research**.
+## 👨‍💻 About Me
 
-I am interested in Software Development and Full Stack Web Development. I continuously work on improving my technical and problem-solving skills through projects, certifications, and self-learning.
+Hello! I'm **Matcha Dhanush**, a Computer Science and Engineering student at **Vignan's Foundation for Science, Technology and Research**.
 
-## Academic Achievement
+I am passionate about **Software Development** and **Full Stack Web Development**. I enjoy building web applications, learning new technologies, and improving my problem-solving skills through continuous learning and practical projects.
 
-* GATE CSE 2026
+---
 
-  * Score: 258
-  * AIR: 66,474
+## 🏆 Academic Achievement
 
-## Technical Skills
+🎯 **GATE CSE 2026**
+
+* Score: **258**
+* AIR: **66,474**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 
 * C
 * Java
 * JavaScript
 * SQL
+
+### Web Development
+
 * HTML5
 * CSS3
 * React.js
 * Node.js
 * Express.js
+
+### Databases
+
 * MongoDB
 * MySQL
-* Git & GitHub
 
-## Projects
+### Tools & Platforms
 
-### Smart Campus Attendance and Academic Management System (SCAAMS)
-
-A MERN Stack application developed to manage attendance, timetables, academic records, and notifications efficiently.
-
-### Digital Event Management Portal
-
-A web application developed using React.js, Node.js, Express.js, and MongoDB for event planning and management.
-
-## Self-Introduction Video
-
-The self-introduction video has been uploaded to this repository as part of the professional development activity.
-
-## Career Objective
-
-To build a successful career in software engineering by continuously learning new technologies and developing impactful software solutions.
+* Git
+* GitHub
+* VS Code
+* Eclipse
 
 ---
 
-Thank you for visiting my repository.
+## 🚀 Projects
+
+### 📌 Smart Campus Attendance and Academic Management System (SCAAMS)
+
+A MERN Stack application designed to manage attendance, timetables, academic records, and notifications efficiently.
+
+### 📌 Digital Event Management Portal
+
+A full-stack web application developed using React.js, Node.js, Express.js, and MongoDB for organizing and managing events.
+
+---
+
+## 🎬 Self-Introduction Video
+
+The self-introduction video is included in this repository as part of a professional development activity.
+
+📹 **Video File:** `Matcha_Dhanush_Self_Introduction.mp4`
+
+---
+
+## 🎯 Career Objective
+
+To build a successful career in software engineering by continuously learning emerging technologies and developing innovative software solutions that create real-world impact.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add your LinkedIn profile link
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my repository! ⭐
+</p>
